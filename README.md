@@ -9,4 +9,5 @@ You can host the server as local or public.
 
 
 ***** disclaimer *****
-(passwords,ban list...) are not secured in python file
+(passwords,ban list...) \n
+are not secured in python files
