@@ -6,3 +6,7 @@ The admin have the ability to kick/ban a user
 :"/kick (username)" - "/ban (username)"
 
 You can host the server as local or public.
+
+
+***** disclaimer *****
+(passwords,ban list...) are not secured in python file
